@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek!</h1>
-<h3 align="center">Master's student in Data Science, passionate about ML engineer to solve real-world problems, with a knack for coding.</h3>
+<h1 align="center">Hi 👋, I'm Nikhil!</h1>
+<h3 align="center">Master's student in Data Science, passionate about AI to solve real-world problems, with a knack for coding.</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=datascientistabhishek&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
